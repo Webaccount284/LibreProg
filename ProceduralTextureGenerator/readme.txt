@@ -1,4 +1,4 @@
-Hello! The ".pmp" is a Penguinmod project file. Go to "https://studio.penguinmod.com/editor.html?nohqpen&fps=20" and click on File, then load this project. 
+Hello! The ".pmp" is a Penguinmod project file. Go to "https://studio.penguinmod.com/editor.html?nohqpen" and click on File, then load this project. 
 You can import any procedural texture by loading a new sprite from your computer and selecting any file that ends in ".pms"
 To export a procedural texture you have made, make sure the name is "proc_exampletexture" then right click the sprite and choose the export button.
 
