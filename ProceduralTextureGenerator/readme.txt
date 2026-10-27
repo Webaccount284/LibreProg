@@ -8,9 +8,11 @@ Use "_Timer" instead of the inbuilt timer
 Use the "Random Number from () to ()" custom block instead of the inbuilt "pick random"
 
 Press Space to Pause/Continue
-Press Left arrow key to step left
-Press Right arrow key to step right
+Press Left arrow key to step backwards into the previous frame
+Press Right arrow key to step forwards into the next frame
 Press Enter to record frames
+
+Stepping backward does not work for textures whose data is generated based on data from previous frames (e.g water)
 
 If pressing Left does not work, that is because you are on the first frame (frame index is 0 on the first frame).
 
